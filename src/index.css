@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  height: 100%;
+  width: 100%;
+  /* background-image: url('./nasa.jpg') no-repeat cover; */
+  background: linear-gradient(to right, rgb(97, 93, 85) 0%, rgb(74, 83, 83) 100%);
+}
+
+button {
+  cursor: pointer;
+}
